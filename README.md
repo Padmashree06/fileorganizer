@@ -1,4 +1,4 @@
-# File and Folder Organizer (Go)
+# Go& Organize(File and Folder Organizer Using Go)
 
 A simple command-line tool written in **Go** that organizes files in a given directory based on their file types (e.g., `.jpg`, `.png`, `.pdf`, etc.). The program will scan the directory, classify files according to their extensions, and move them to corresponding folders based on their types.
 
